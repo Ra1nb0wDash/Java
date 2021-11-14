@@ -1,9 +1,6 @@
 package ru.mirea.Practice2;
 import ru.mirea.Practice2.Classes.*;
 
-import ru.mirea.Practice2.Classes.Author;
-import ru.mirea.Practice2.Classes.Ball;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("Testing Author");
